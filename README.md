@@ -5,4 +5,4 @@
 
 3- MINIST handwritten Digit Classification
 
-4- Fashion MNIST Classification  (https://mnist-fashion.streamlit.app/)
+4- Fashion MNIST Classification  
